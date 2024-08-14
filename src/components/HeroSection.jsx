@@ -8,7 +8,7 @@ const HeroSection = () => {
         HACKHOUND 
         <span className="bg-gradient-to-r from-[#ff930f] to-[#fff95b] text-transparent bg-clip-text">
           {" "}
-          SRM-IST 
+          SRMIST 
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
