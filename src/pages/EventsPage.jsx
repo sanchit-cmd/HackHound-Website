@@ -42,7 +42,7 @@ export default function EventsPage() {
     };
 
     return (
-        <div className="bg-[#17153B]">
+        <div className="bg-[#000]">
             <Navbar></Navbar>
             <Box sx={{ width: '100%', height: '90vh', p: 3 }}>
                 <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
